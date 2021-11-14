@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 10px;
+    
+}
+.card {
+    width: 700px;
+    height: 300px;
+}
+.header {
+    background-color: turquoise;
+}
+.header img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    position: relative;
+    top: 60px;
+}
+.container { 
+    background-color: whitesmoke;
+}
+h1 {
+    padding-top: 20px;
+}
+h2 { 
+    display: flex;
+}
+h2 img { 
+    width: 20px;
+    position: relative;
+    bottom: 12px;
+}
+p { 
+    text-decoration: black;
+}
+.profile { 
+    display: flex;
+}
+.profile img { 
+    width: 20px;
+}
